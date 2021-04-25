@@ -1,0 +1,7 @@
+04/17/2021 19:48:20 => [Debug] Debug started for file: Main
+04/17/2021 19:48:23 => [Info] ProfileBot execution started
+04/17/2021 19:48:29 => [Info] The user clicked the Ok button on Intro Message
+04/17/2021 19:48:30 => [Warning] The user does not have Google Chrome. Trying other browser options.
+04/17/2021 19:48:31 => [Warning] The user does not have either Google Chrome nor Firefox. Trying final browser option.
+04/17/2021 19:48:32 => [Debug] Error: Browser Not Found
+04/17/2021 19:48:38 => [Info] ProfileBot execution ended in: 00:00:14
